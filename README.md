@@ -1,2 +1,9 @@
 # Full-Cycle-Desafios
-Repositorio que contém todos os desafios do curso Full Cycle 3.0
+
+## Imagem docker Golang
+
+Comando para acessar a imagem via Docker Hub
+
+```
+docker pull arthurfjesus/fullcycle
+```
