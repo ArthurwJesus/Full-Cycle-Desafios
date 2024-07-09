@@ -2,7 +2,7 @@
 
 ## Imagem docker Golang
 
-Comando para acessar a imagem via Docker Hub
+Comando para a imagem
 
 ```
 docker pull arthurfjesus/fullcycle
